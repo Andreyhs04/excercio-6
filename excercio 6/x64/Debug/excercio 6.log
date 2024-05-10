@@ -1,0 +1,7 @@
+﻿  excercio 6.cpp
+C:\Users\23938490845\Desktop\SENAI\ProfJuliana\excercio 6\excercio 6\excercio 6.cpp(1,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+C:\Users\23938490845\Desktop\SENAI\ProfJuliana\excercio 6\excercio 6\excercio 6.cpp(2,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+C:\Users\23938490845\Desktop\SENAI\ProfJuliana\excercio 6\excercio 6\excercio 6.cpp(3,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+C:\Users\23938490845\Desktop\SENAI\ProfJuliana\excercio 6\excercio 6\excercio 6.cpp(19,16): error C3688: sufixo literal inválido 'Í¾'; operador literal ou modelo de operador literal 'operator ""Í¾' não encontrado
+C:\Users\23938490845\Desktop\SENAI\ProfJuliana\excercio 6\excercio 6\excercio 6.cpp(20,3): error C2146: erro de sintaxe: ';' ausente antes do identificador 'cin'
+C:\Users\23938490845\Desktop\SENAI\ProfJuliana\excercio 6\excercio 6\excercio 6.cpp(7,12): error C1075: '{': nenhum token correspondente encontrado

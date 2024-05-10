@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\23938490845\\Desktop\\SENAI\\ProfJuliana\\excercio 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC36AE95-F0A5-4298-81ED-B3E1011AFA22}|excercio 6\\excercio 6.vcxproj|C:\\Users\\23938490845\\Desktop\\SENAI\\ProfJuliana\\excercio 6\\excercio 6\\excercio 6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC36AE95-F0A5-4298-81ED-B3E1011AFA22}|excercio 6\\excercio 6.vcxproj|solutionrelative:excercio 6\\excercio 6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "excercio 6.cpp",
+              "DocumentMoniker": "C:\\Users\\23938490845\\Desktop\\SENAI\\ProfJuliana\\excercio 6\\excercio 6\\excercio 6.cpp",
+              "RelativeDocumentMoniker": "excercio 6\\excercio 6.cpp",
+              "ToolTip": "C:\\Users\\23938490845\\Desktop\\SENAI\\ProfJuliana\\excercio 6\\excercio 6\\excercio 6.cpp",
+              "RelativeToolTip": "excercio 6\\excercio 6.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T19:13:20.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
